@@ -1,6 +1,6 @@
-# 🏫 Student Practice Task: School Exam Score Report System (2D Arrays in Java)
+# ICE Task: School Exam Score Report System 
 
-## 📘 Overview
+## Overview
 
 In this task, you will build a simple Java program that helps a school principal keep track of student performance across multiple terms. You’ll use **two-dimensional arrays** to store and report student exam marks.
 
@@ -18,7 +18,7 @@ Thereafter, please submit your repo link to ARC.
 
 ---
 
-## 🎯 Scenario
+## Scenario
 
 You are helping a **school principal** to create a Java application that stores and reports exam marks for **3 students** across **4 terms**. Each row in the 2D array represents a student, and each column represents a term.
 
@@ -32,7 +32,7 @@ Your program will:
 
 ---
 
-## 🧪 Task Requirements
+## Task Requirements
 
 1. Declare a 2D array of marks similar to this:
 
