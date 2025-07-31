@@ -13,6 +13,7 @@ This task is designed to help you:
 ✅ Produce a clear report for each student  
 
 Upon completion of this task: please claim the following GitHub link: https://classroom.github.com/a/1UUwhvW4
+
 Thereafter, please submit your repo link to ARC.
 
 ---
@@ -41,6 +42,8 @@ int[][] marks = {
     {64, 70, 72, 68}, // Ben
     {88, 90, 85, 92}  // Chloe
 };
+
+```
 ---
 
 Sample of Report:
