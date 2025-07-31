@@ -47,8 +47,12 @@ int[][] marks = {
 ---
 
 Sample of Report:
+```java
+
 ## Final Report:
 Student    T1   T2   T3   T4   Total
 Amina      75   82   91   78   326
 Ben        64   70   72   68   274
 Chloe      88   90   85   92   355
+
+```
